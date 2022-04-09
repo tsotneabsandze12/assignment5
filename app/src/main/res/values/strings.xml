@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">assignment5</string>
+    <string name="distance_covered_by_running">distance covered by running in meters</string>
+    <string name="distance_covered_by_swimming">distance covered by swimming in meters</string>
+    <string name="consumed_calories">consumed calories</string>
+    <string name="save">SAVE</string>
+    <string name="average_distance_ran">Average distance ran</string>
+    <string name="average_distance_swam">average distance swam</string>
+    <string name="average_calories_consumed">average calories consumed</string>
+    <string name="total_distance_ran">total distance ran</string>
+</resources>
